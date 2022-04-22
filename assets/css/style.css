@@ -1,0 +1,9 @@
+/* Color barra de navegación */
+.colorNav {
+    background-color: #e3f2fd;
+}
+
+/* Imagen de fondo del body */
+body {
+    background: url("../images/cubes.png") #f4f4f4;
+}
